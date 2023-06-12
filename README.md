@@ -41,11 +41,6 @@
  -->
 #### Frontend Projects :
 
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
-
 <a href="https://github.com/Shahid-Bagwan/Shahid-Bagwan/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
