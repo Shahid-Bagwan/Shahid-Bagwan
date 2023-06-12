@@ -22,11 +22,10 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Shahid-Bagwan&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Shahid-Bagwan&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-Bagwan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/Shahid-Bagwan/github-stats">
-<img src="https://Shahid-Bagwan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://Shahid-Bagwan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-Bagwan&layout=compact&langs_count=10&theme=react)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shahid-Bagwan&theme=react)
 </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-Bagwan&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shahid-Bagwan&theme=react) -->
+
 
 --- 
 
@@ -78,7 +77,7 @@
 
 ---
 
-### 📈 Weekly Developement Breakdown
+<!-- ### 📈 Weekly Developement Breakdown
 
 <!--START_SECTION:waka-simple-->
 
@@ -95,19 +94,8 @@ CSS          5 hrs 4 mins    ▓░░░░░░░░░░░░░░░░
 XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
-<!--END_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple--> -->
 
----
-
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 🔗 Social info
 
@@ -126,4 +114,4 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 ---
 
 ### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+[![Shahid Rafique Bagwan profile views](https://u8views.com/api/v1/github/profiles/112220551/views/day-week-month-total-count.svg)](https://u8views.com/github/Shahid-Bagwan)
