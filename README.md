@@ -23,7 +23,7 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-Bagwan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/Shahid-Bagwan/github-stats">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-Bagwan&layout=compact&langs_count=10&theme=react)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shahid-Bagwan&theme=react)
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shahid-Bagwan&theme=react) -->
 </a>
 
 
@@ -40,10 +40,10 @@
  -->
 #### Frontend Projects :
 
-<!-- * [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
 * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience) -->
+* [Cure Science Updated](https://github.com/getlost01/CureScience)
 
 <a href="https://github.com/Shahid-Bagwan/Shahid-Bagwan/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
@@ -77,38 +77,19 @@
 
 ---
 
-<!-- ### 📈 Weekly Developement Breakdown
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 24 January 2023 - To: 09 June 2023
-
-Total Time: 185 hrs 35 mins
-
-TypeScript   96 hrs 31 mins  █████████████░░░░░░░░░░░░   52.01 %
-JavaScript   43 hrs 26 mins  ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-C++          18 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JSON         5 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-CSS          5 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-```
-
-<!--END_SECTION:waka-simple--> -->
-
 
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <a href="https://www.linkedin.com/in/shahid-bagwan-a0a76a1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=shahidbagwan.416@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
+    <a href="https://twitter.com/sbagwan0301">
+    <img src="https://img.shields.io/badge/-@sbagwan0301-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ </a>
 </div>
 
 ---
