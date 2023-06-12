@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently developing and learning **JavaScript, React.js, and other full-stack Frameworks & Languages.**
 
-- ⚡ Fun fact : **My Git-Hub codes = 60% Me + 10% StackOverflow + 10% Google + 20% Chatpgt**
+- ⚡ Fun fact : **My Git-Hub codes = 60% Me + 10% StackOverflow + 10% Google + 20% ChatGPT**
 
 --- 
 
