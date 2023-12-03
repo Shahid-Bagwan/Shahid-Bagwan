@@ -39,7 +39,7 @@
 <!-- #### Web Store Extensions 
 
  -->
-#### Frontend Projects :
+#### ALL Projects :
 
 <a href="https://github.com/Shahid-Bagwan/Shahid-Bagwan/tree/main/Projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
