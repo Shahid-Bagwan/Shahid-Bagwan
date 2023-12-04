@@ -4,14 +4,16 @@ Let's introduce you to my collection of projects. These projects were the outcom
 If any of these projects captures your attention, a simple `⭐️ star` would be much for appreciating me.
 
 ## Project Types
-- [Frontend Projects](#web-pages)
+- [Projects](#web-pages)
 
 
-## Frontend Projects
+## Projects
 
 | Project | Description | Tech-Stack | Stars | Deployment |
 | --- | --- | --- | --- | --- |
-|[My Portfolio](https://github.com/Shahid-Bagwan/My-Portfolio)| My beautiful portfolio site. | <img width=150 src="https://skillicons.dev/icons?i=js,css,html,bootstrap,github,vercel" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/My-Portfolio?style=social)](https://github.com/Shahid-Bagwan/My-Portfolio)|[Click here](https://my-portfolio-orcin-nu.vercel.app)|
+|[AI-Tutor-PRO](https://github.com/Shahid-Bagwan/AITutorPro)| Fullstack AI SAAS. | <img width=150 src="https://skillicons.dev/icons?i=prisma,postgres,planetscale,nextjs,gcp" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/AITutorPro?style=social)](https://github.com/Shahid-Bagwan/AITutorPro)|[Click here](https://shahid-portfolio-mu.vercel.app/)|
+|[ShahidEstate](https://github.com/Shahid-Bagwan/real_estate)| Modern Real Estate Application. | <img width=150 src="https://skillicons.dev/icons?i=docker,firebase,gcp,mongodb,nodejs,react,vite,tailwind,redux" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/real_estate?style=social)](https://github.com/Shahid-Bagwan/real_estate)|[Click here](https://shahid-estate.onrender.com/)|
+|[My Portfolio](https://github.com/Shahid-Bagwan/Shahid-Portfolio)| My beautiful portfolio site. | <img width=150 src="https://skillicons.dev/icons?i=threejs,github,vercel" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/Shahid-Portfolio?style=social)](https://github.com/Shahid-Bagwan/Shahid-Portfolio)|[Click here](https://shahid-portfolio-mu.vercel.app/)|
 |[Portfolio Project](https://github.com/Shahid-Bagwan/Portfolio)|My beautiful portfolio site developed as a project.| <img width=150 src="https://skillicons.dev/icons?i=js,css,html,github,vercel" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/Portfolio?style=social)](https://github.com/Shahid-Bagwan/Portfolio)|[Click here](https://portfolio-dusky-three-31.vercel.app)|
 |[Shahid Notes](https://github.com/Shahid-Bagwan/Shahid-Notes)|Create manage your day-to-day activities, With a Great UI.| <img width=150 src="https://skillicons.dev/icons?i=react,css,html,github,vercel" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/Shahid-Notes?style=social)](https://github.com/Shahid-Bagwan/Shahid-Notes)|[Click here](https://shahid-notes.vercel.app)|
 |[ComedyBurst](https://github.com/Shahid-Bagwan/ComedyBurst)|A Comedy Event website to give fans easy access to concerts.| <img width=150 src="https://skillicons.dev/icons?i=js,css,html,github,vercel" /> |[![GR](https://img.shields.io/github/stars/Shahid-Bagwan/ComedyBurst?style=social)](https://github.com/Shahid-Bagwan/ComedyBurst)|[Click here](https://shahid-bagwan.github.io/ComedyBurst/)|
