@@ -8,11 +8,11 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CS Diploma pass out.
+- 👨‍💻 Started As a Freelancer, now working full time. Self Taught.
 
-- 🔭 I’m currently studying at **Microverse**
+- 🔭 I’m currently Working at **Spread**
 
-- 🌱 I’m currently developing  **JavaScript, React.js, and other full-stack Frameworks & Languages.**
+- 🌱 I’m currently Upskilling On  **Kubernetes,Microservices,kafka**
 
 - ⚡ Fun fact : **My Git-Hub codes = 60% Me + 10% StackOverflow + 10% Google + 20% ChatGPT**
 
