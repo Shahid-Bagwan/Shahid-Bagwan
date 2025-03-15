@@ -8,9 +8,9 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 Started As a Freelancer, now working full time. Self Taught.
+- 👨‍💻 Started As a Freelancer, now working full time.
 
-- 🔭 I’m currently Working at **Spread**
+- 🔭 I’m currently Working at **WeSpread**
 
 - 🌱 I’m currently Upskilling On  **Kubernetes,Microservices,kafka**
 
