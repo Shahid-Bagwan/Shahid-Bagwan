@@ -10,11 +10,11 @@
 ### 👦 About Me
 - 👨‍💻 Started As a Freelancer, now working full time.
 
-- 🔭 I’m currently Working at **WeSpread**
+- 🔭 I’m currently Working at **Goquest Media**
 
 - 🌱 I’m currently Upskilling On  **Kubernetes,Microservices,kafka**
 
-- ⚡ Fun fact : **My Git-Hub codes = 60% Me + 10% StackOverflow + 10% Google + 20% ChatGPT**
+- ⚡ Fun fact : **My Git-Hub codes = 50% Me + 50% Claude Code**
 
 --- 
 
