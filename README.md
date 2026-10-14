@@ -1,21 +1,17 @@
 # Shahid Bagwan
 
-Software Engineer at GoQuest Media, building production software for content and media operations.
+Forward Deployed Engineer at GoQuest Media. I build production AI systems: LLM pipelines, AI agents and evaluation tooling, mostly in Python and TypeScript on GCP.
 
-Over the last 18 months, I was the lead engineer on a multi-tenant YouTube CMS for an MCN operating more than 200 channels. In a four-person team, I contributed roughly 930 of the project's 1,100 commits.
+## Personal projects
 
-My work includes permissions and role models, OAuth token infrastructure, quota routing and failover, audit trails, and human review around AI.
-
-I built a Cloud Run OAuth token broker used by four internal apps for scoped, auto-refreshed tokens. I also built an internal email-triage workflow that compares suggested drafts with what people actually sent and scores the differences.
+- **[AITutorPro](https://github.com/Shahid-Bagwan/AITutorPro)**: generates full online courses from a title and units with the OpenAI API (Next.js, Prisma, PostgreSQL, Docker, AWS).
+- **[Docker-Templates](https://github.com/Shahid-Bagwan/Docker-Templates)**: beginner-friendly Dockerfile templates for common web frameworks.
+- **[betacrew_exchange_server](https://github.com/Shahid-Bagwan/betacrew_exchange_server)**: Node.js TCP client for a mock stock exchange that detects and re-requests missing packets.
 
 ## Stack
 
-TypeScript, Python, Next.js, Flask, Hono, Postgres/Supabase, GCP Cloud Run, and Docker.
-
-## Public work
-
-Most of the evidence for this work is private. I do not currently have a runnable public repository or demo for these systems.
+Python · TypeScript · Gemini / OpenAI / Claude APIs · RAG · GCP Cloud Run · PostgreSQL · Next.js · Docker · Playwright
 
 ## Elsewhere
 
-LinkedIn and X are linked from my profile.
+[LinkedIn](https://www.linkedin.com/in/shahid-bagwan-a0a76a1b4/) · [X](https://x.com/shahid_bagwann) · [Portfolio](https://shahid-portfolio-mu.vercel.app)
