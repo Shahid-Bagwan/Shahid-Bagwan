@@ -14,4 +14,4 @@ Python · TypeScript · Gemini / OpenAI / Claude APIs · RAG · GCP Cloud Run ·
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/shahid-bagwan-a0a76a1b4/) · [X](https://x.com/shahid_bagwann) · [Portfolio](https://shahid-portfolio-mu.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/shahid-bagwan-a0a76a1b4/) · [X](https://x.com/shahid_bagwann)
